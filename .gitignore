@@ -1,0 +1,13 @@
+target/
+!**/src/main/**
+!**/src/test/**
+
+.classpath
+.factorypath
+.project
+.settings
+
+.idea
+*.iws
+*.iml
+*.ipr
